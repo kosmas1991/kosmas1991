@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kosmas1991
 - 👀 I’m interested in ... mobile development
 - 🌱 I’m currently learning ... android
-- 💞️ I’m looking to collaborate on ... java
+- 💞️ I’m looking to collaborate on ... flutter
 - 📫 How to reach me ... kosmasgou@gmail.com
 
 <!---
